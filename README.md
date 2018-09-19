@@ -8,8 +8,4 @@
 
 screenshot
 
-![登陆界面](https://github.com/niuey2001/cwbb/blob/master/pic/dl.png)
-
-![历史管理](https://github.com/niuey2001/cwbb/blob/master/pic/glls.png)
-
-![主界面](https://github.com/niuey2001/cwbb/blob/master/pic/zjm.png)
+![登陆界面](https://github.com/niuey2001/cwbb/blob/master/pic/dl.png) ![主界面](https://github.com/niuey2001/cwbb/blob/master/pic/zjm.png)
