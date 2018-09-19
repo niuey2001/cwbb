@@ -1,0 +1,11 @@
+行 70: 控件 ListView1 的类 MSComctlLib.ListView 不是一个已加载的控件类。
+行 76: 属性名 _ExtentX 在 ListView1 中是无效的。
+行 77: 属性名 _ExtentY 在 ListView1 中是无效的。
+行 78: 属性名 View 在 ListView1 中是无效的。
+行 79: 属性名 LabelEdit 在 ListView1 中是无效的。
+行 80: 属性名 LabelWrap 在 ListView1 中是无效的。
+行 81: 属性名 HideSelection 在 ListView1 中是无效的。
+行 82: 属性名 Checkboxes 在 ListView1 中是无效的。
+行 83: 属性名 FullRowSelect 在 ListView1 中是无效的。
+行 84: 属性名 _Version 在 ListView1 中是无效的。
+行 89: 属性名 NumItems 在 ListView1 中是无效的。
